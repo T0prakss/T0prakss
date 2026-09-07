@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,minecraft,git,docker,linux,idea,vscode,figma&perline=5" />
-</p>
+
 
 # Toprak's Tech Stack & Skills
 
