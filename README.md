@@ -1,16 +1,23 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,minecraft,git,docker,linux,idea,vscode,figma&perline=5" />
+</p>
 
-<!--
-**T0prakss/T0prakss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Toprak's Tech Stack & Skills
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Backend & Programlama Dilleri
+[![Backend Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,html,css&perline=6)](https://skillicons.dev)
+
+### ⛏️ Minecraft & Oyun Geliştirme Ekosistemi
+[![Game Dev Skills](https://skillicons.dev/icons?i=minecraft,unreal,blender&perline=3)](https://skillicons.dev)
+
+### 💻 Altyapı, Sistem & Versiyon Kontrolü
+[![System Skills](https://skillicons.dev/icons?i=git,github,docker,linux,debian,ubuntu,nginx&perline=4)](https://skillicons.dev)
+
+### 🎨 Tasarım, Arayüz & Editörler
+[![Tools & Editors](https://skillicons.dev/icons?i=figma,idea,vscode,neovim,discord&perline=5)](https://skillicons.dev)
+
+---
+
+```markdown
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,minecraft,git,github,docker,linux,idea,vscode,figma&perline=6)](https://skillicons.dev)
