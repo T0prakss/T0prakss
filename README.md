@@ -8,7 +8,7 @@
 ### 🛠️ Backend & Programlama Dilleri
 [![Backend Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,js,html,css&perline=6)](https://skillicons.dev)
 
-### ⛏️ Minecraft & Oyun Geliştirme Ekosistemi
+###
 [![Game Dev Skills](https://skillicons.dev/icons?i=minecraft,unreal,blender&perline=3)](https://skillicons.dev)
 
 ### 💻 Altyapı, Sistem & Versiyon Kontrolü
